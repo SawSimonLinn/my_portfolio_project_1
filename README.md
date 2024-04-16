@@ -7,9 +7,9 @@
 
 - I'm a Software Engineering student at [Triple Ten](https://tripleten.com/software-engineer/)
 
-- 👨‍💻 All of my projects are available at [https://sawsimonlinn.github.io/my_portfolio_project_1/](https://sawsimonlinn.github.io/my_portfolio_project_1/)
+- 👨‍💻 All of my projects are available at [Simon Linn](https://sawsimonlinn.github.io/my_portfolio_project_1/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/saw-simon-linn-1897962a0/](https://www.linkedin.com/in/saw-simon-linn-1897962a0/)
+- 📝 I regularly write articles on [Here](https://www.linkedin.com/in/saw-simon-linn-1897962a0/)
 
 - 💬 Ask me about **HTML5, CSS3 and Javascript**
 
