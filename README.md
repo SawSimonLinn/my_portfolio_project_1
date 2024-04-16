@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saw Simon Linn</h1>
 <h3 align="center">A passionate frontend developer from Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on [Around The US (TripleTen Bootcamp)](https://github.com/SawSimonLinn/se_project_aroundtheus)
+- 🔭 I’m currently working on [Around The US](https://github.com/SawSimonLinn/se_project_aroundtheus)
 
 - 🌱 I’m currently learning **React.js**
 
