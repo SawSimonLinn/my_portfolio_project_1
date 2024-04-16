@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sawsimonlinn@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/saw-simon-linn-1897962a0/](https://www.linkedin.com/in/saw-simon-linn-1897962a0/)
+- 📄 Know about my experiences [Click Here](https://www.linkedin.com/in/saw-simon-linn-1897962a0/)
 
 - ⚡ Fun fact **I think I am funny and love to try new food.**
 
